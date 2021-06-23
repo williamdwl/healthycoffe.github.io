@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="49px" height="45px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -939 -777 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="49" height="45" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAtCAYAAAAHiIP8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADrSURBVGhD7ZoxCsJAEEVnNgFbwcLCK0Sw9CRi6QUsPImFF7C08xp2CnoFS7GxEZKsmWUFS8s/4b9q96f5DzLVrMoPj8uhkkLmGmWSIziiyl0aOY1my1uOJEk8z8dhW763KrpKqQOixH2tYT2uFq9ggTcBw/qWsd2ls/1CWug1fXFIbOI02Azku0+6/gF5iP/B+qeZ8A4lUKAECpRAgRIoUAIFSqBACRQogQIlUKAECpRAgRIoUAIFSqBACRQogUI/JNJe2DHWP9hiO9990vUPtpm3xXaOXGG9rX+aiVAPNt5Evi8K7NyDtx0iH4VWRAIt8nytAAAAAElFTkSuQmCC" x="939px" y="777px" />
+    <path d="M 939.5 782  A 4.5 4.5 0 0 1 944 777.5 L 983 777.5  A 4.5 4.5 0 0 1 987.5 782 L 987.5 817  A 4.5 4.5 0 0 1 983 821.5 L 944 821.5  A 4.5 4.5 0 0 1 939.5 817 L 939.5 782  Z " stroke-width="1" stroke="#797979" fill="none" />
+  </g>
+</svg>

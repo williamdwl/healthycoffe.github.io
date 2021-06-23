@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="25px" height="25px" viewBox="589 503  25 25" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <image preserveAspectRatio="none" style="overflow:visible" width="25" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABPSURBVEhLY3x/ebnD//+M9gw0AoyM/w8yvru0oh7IaoCKUR/8/9/ABGXSFIxaQhIYtYQkMGoJSWDUEpLAqCUkgVFLSAKjlpAE6NDu+n8QAK9DE2kHBoNHAAAAAElFTkSuQmCC" id="widget7" />
+  </defs>
+  <use xlink:href="#widget7" x="589px" y="503px" />
+  <path d="M 589.5 503.5  L 613.5 503.5  L 613.5 527.5  L 589.5 527.5  L 589.5 503.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+</svg>

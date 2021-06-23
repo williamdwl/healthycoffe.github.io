@@ -10,6 +10,12 @@
   line-height:normal;
   text-transform:none;
 }
+.box_1 {
+}
+.box_3 {
+}
+.ellipse {
+}
 .image {
 }
 .button {
@@ -58,9 +64,29 @@
 .paragraph {
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
+}
+.text_field {
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+.shape {
+}
+.box_2 {
+}
+.line {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
